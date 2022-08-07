@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayur Somani
 - 👀 I’m interested in Coding & Photography
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Java / Kotlin / Python Projects
+- 🌱 I’m currently learning System Designing
+- 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me: E-Mail: Mayur491@gmail.com
 
 <!---
